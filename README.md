@@ -1,2 +1,2 @@
 # pop-out-video-player
-A versatile pop-out video player written in Java.
+A versatile pop-out video player written in Java and JavaFX. Users can either choose a local file to play or play a video from YouTube. YouTube videos are embedded into the application so that the user has access to all the YouTube video player controls. For local files, the application has a custom set of video controls. These controls let the user scrub through the video, play, pause, rewind, control volume, and control speed.
